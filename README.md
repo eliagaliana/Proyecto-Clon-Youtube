@@ -47,6 +47,7 @@ Este clon de YouTube combina la estética con la funcionalidad lógica. **El pro
 ¿Tienes sugerencias para optimizar el código JS o los estilos? ¡Hablemos!
 
 - **Autor:** Elia Galiana
-- **LinkedIn:** www.linkedin.com/in/elia-galiana-sanabria-74992431a
+- **LinkedIn:** www.linkedin.com/in/elia-galiana-sanabria
 - **Portfolio:** https://eliagaliana.github.io/elia-galiana.github.io/
+
 
